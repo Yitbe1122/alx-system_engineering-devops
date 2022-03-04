@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# prints out the process id of this scrip
-echo $$
