@@ -1,1 +1,1 @@
-0x03-shell, init fioles, variablew and expansions
+0X03-SHELL VARIABLES, INIT AND EXPANSIONS
